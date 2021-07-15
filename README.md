@@ -1,9 +1,9 @@
 # Typescript parcel starter kit
 
 ##Table of Contents
-1. [Inlcudes](includes)
-2. [Predefined](predefined)
-3. [Uses](uses)
+1. [Inlcudes](#includes)
+2. [Predefined](#predefined)
+3. [Uses](#uses)
 
 
 <a href="includes" ></a>

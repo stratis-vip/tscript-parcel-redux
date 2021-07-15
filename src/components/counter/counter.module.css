@@ -1,0 +1,13 @@
+.container{
+    margin: 0 auto;
+    color: blue;
+    font-size: xx-large;
+}
+
+.button{
+    margin-right: 1rem;
+}
+
+.input{
+    width: 3rem;
+}
