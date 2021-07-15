@@ -1,6 +1,6 @@
-# Typescript parcel starter kit
+# Typescript - Redux - Parcel starter kit
 
-##Table of Contents
+ Table of Contents
 1. [Inlcudes](#includes)
 2. [Predefined](#predefined)
 3. [Uses](#uses)
