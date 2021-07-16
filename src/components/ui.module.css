@@ -1,0 +1,20 @@
+.button{
+    padding: 0.5rem;
+    font-size: large;
+    background-color: #2185d0;
+    color: #fff;
+    text-shadow: none;
+    box-shadow: 0 0 0 0 #22242626 inset;
+    border-radius: .28571429rem;
+    text-decoration: none;
+}
+
+.button:hover{
+    background-color: #1578c1;
+}
+
+.button:disabled{
+    background-color: #cce2ff;
+    border-color: #cce2ff;
+    box-shadow: 0 0 0 0 #22242626 inset;
+}

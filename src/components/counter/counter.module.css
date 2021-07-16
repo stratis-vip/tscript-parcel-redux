@@ -1,13 +1,41 @@
 .container{
     margin: 0 auto;
-    color: blue;
-    font-size: xx-large;
+    font-size: x-large;
+    text-align: center;
+    padding: 1rem;
 }
 
-.button{
-    margin-right: 1rem;
+.buttons{
+    display: flex;
+    flex-direction: column;
 }
 
+
+.simpleAdd{
+    min-height: 5rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.varAdd{
+    min-height: 5rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+
+}
 .input{
     width: 3rem;
+    font-size: large;
+    min-height: 2.3rem;
+    padding-left: 1rem;
+}
+
+.component{
+    min-width: 600px;
+    padding: 0.2rem;
+    border: #0a131b thin solid;
+    margin-bottom: 2rem;
 }

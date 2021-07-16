@@ -1,0 +1,25 @@
+.todos{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.component{
+    text-align: center;
+    min-width: 600px;
+    padding: 0.2rem;
+    border: #0a131b thin solid;
+    box-sizing: border-box;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1rem;
+}
+
+.h3{
+    font-weight: bold;
+    font-size: 1.17rem;
+    margin: 1rem 0;
+ }
